@@ -1,6 +1,16 @@
 <PAMDataset>
   <PAMRasterBand band="1">
     <Description>classification</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.475</HistMin>
+        <HistMax>19.475</HistMax>
+        <BucketCount>20</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>1</Approximate>
+        <HistCounts>211831|0|218|18659|237|5574|16071|2013|2971|141139|105577|39220|238|3298|33|0|145251|11530|2952|260</HistCounts>
+      </HistItem>
+    </Histograms>
     <Metadata>
       <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
       <MDI key="STATISTICS_MAXIMUM">19</MDI>
