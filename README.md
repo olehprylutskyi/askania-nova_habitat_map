@@ -3,7 +3,9 @@ Mapping habitats of Falz-Fein Biosphere Reserve "Askania Nova" using Sentinel-2 
 
 Follow the link to the [Google Earth Engine App](https://ee-olegpril12.projects.earthengine.app/view/askania-nova-habitats) to view the full-size maps.
 
-![Habitat maps of Falz-Fein Biosphere Reserve "Askania Nova". Object-based classification of Sentinel-2 optical data combined with seasonal series of NDVI and NDWI spectral indices.](https://github.com/olehprylutskyi/askania-nova_habitat_map/blob/main/outputs/habitat_map.png)
+![Habitat maps](https://github.com/olehprylutskyi/askania-nova_habitat_map/blob/main/outputs/habitat_map.png)
+
+Habitat maps of Falz-Fein Biosphere Reserve "Askania Nova". Object-based classification of Sentinel-2 optical data combined with seasonal series of NDVI and NDWI spectral indices.
 
 ## Purpose
 Mapping habitats is an essential component of assessing the condition of natural ecosystems. However, accomplishing this task using traditional field methods requires extensive human efforts and financial resources. An alternative is remote habitat mapping using satellite imagery and classification algorithms. In the context of war and the temporary occupation of parts of Ukraine, remote habitat mapping often becomes the only feasible method to obtain a snapshot of ecosystem conditions. 
