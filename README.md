@@ -41,4 +41,4 @@ Autors:
 
 License: GNU GPL-3.
 
-Please cite this pipeline as: Prylutskyi, Shapoval, and Kuzemko (2024) Pre-occupation status of habitats in the Falz-Fein Biosphere Reserve “Askania Nova”: inventory and mapping using remote sensing and machine learning. _Biosphere Reserve "Askania Nova" Reports_, XX, XX-XX. 
+Please cite this pipeline as: Prylutskyi, Shapoval, and Kuzemko (2024) Pre-occupation status of habitats in the Falz-Fein Biosphere Reserve “Askania Nova”: inventory and mapping using remote sensing and machine learning. _Biosphere Reserve "Askania Nova" Reports_, 26, 68-85. [https://doi.org/10.53904/1682-2374/2024-26/5](https://doi.org/10.53904/1682-2374/2024-26/5)
